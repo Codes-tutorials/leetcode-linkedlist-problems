@@ -1,0 +1,41 @@
+# Compiled Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+target/
+build/
+dist/
+
+# Gradle
+.gradle/
+gradle/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project specific
+*.log
+.classpath
+.project
+.settings/
